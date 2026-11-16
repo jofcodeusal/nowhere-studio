@@ -1,12 +1,14 @@
-# nowhere studio
+# Oda Studio
 
-Make a world by describing it, then send it out as a planet.
+Make a world by describing it, then publish it as a planet anyone can walk into.
 
-This repository holds the installers. Get the latest from the
-[Releases](https://github.com/jofcodeusal/nowhere-studio/releases/latest) page:
+This repository holds the Oda Studio installers. Download from the
+[Oda Studio page](https://oda-studio.vercel.app) or the
+[latest release](https://github.com/jofcodeusal/nowhere-studio/releases/latest):
 
-- **Mac** (Apple silicon, macOS 14 or later): `nowhere-studio-arm64.dmg`, signed and notarized by Apple.
-- **Windows** (10 or 11, 64-bit): `nowhere-studio-x64-setup.exe`. Not code signed yet, so Windows may show
-  "Windows protected your PC" the first time; choose More info, then Run anyway.
+- **Mac** (Apple silicon, macOS 14 or later): `oda-studio-arm64.dmg`, signed and notarized by Apple.
+- **Windows**: coming soon.
 
-© Utopia Labs
+The command line works on any computer with Node.js 20 or later: `npx oda-engine new my-world`.
+
+[Terms](https://oda-app-taupe.vercel.app/terms) · [Privacy](https://oda-app-taupe.vercel.app/privacy) · [Support](https://oda-app-taupe.vercel.app/support)
